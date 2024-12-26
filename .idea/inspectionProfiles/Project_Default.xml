@@ -1,0 +1,30 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="17">
+            <item index="0" class="java.lang.String" itemvalue="openai" />
+            <item index="1" class="java.lang.String" itemvalue="streamlit" />
+            <item index="2" class="java.lang.String" itemvalue="langchain-community" />
+            <item index="3" class="java.lang.String" itemvalue="requests" />
+            <item index="4" class="java.lang.String" itemvalue="langchain" />
+            <item index="5" class="java.lang.String" itemvalue="langchain-core" />
+            <item index="6" class="java.lang.String" itemvalue="langsmith" />
+            <item index="7" class="java.lang.String" itemvalue="rpds-py" />
+            <item index="8" class="java.lang.String" itemvalue="langchain-openai" />
+            <item index="9" class="java.lang.String" itemvalue="watchdog" />
+            <item index="10" class="java.lang.String" itemvalue="toolz" />
+            <item index="11" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="12" class="java.lang.String" itemvalue="aiohappyeyeballs" />
+            <item index="13" class="java.lang.String" itemvalue="aiohttp" />
+            <item index="14" class="java.lang.String" itemvalue="orjson" />
+            <item index="15" class="java.lang.String" itemvalue="altair" />
+            <item index="16" class="java.lang.String" itemvalue="attrs" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
